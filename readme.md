@@ -1,8 +1,9 @@
 # HOW TO MAKE A POST REQUEST WITH JSON BODY USING POWER QUERY (M LANGUAGE)
 
-let
 
 ```
+let
+
 url = "URL",
 
 postBody = "{
